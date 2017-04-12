@@ -1,0 +1,42 @@
+
+  h1 {
+  color: rgb(0, 38, 255)
+  
+  }
+  
+ h2 {
+  color: rgb(0, 38, 255)
+  
+  }
+.button {
+/*Step 2: Basic Button Styles*/
+ display: block;
+ /*height: 60px;
+ width: 110px;
+ background-color: Lavender;
+ padding: 10px ;
+ border: 2px solid rgba(200, 68, 72, 0.59);*/
+ margin: 10px;
+ 
+ 
+ /*Step 3: Text Styles*/
+ color: rgba(0, 10, 0, 0.55);
+ text-align:center;
+ font: bold 1em/5px "cursive", Arial, Helvetica, Geneva, sans-serif;
+}
+ 
+ /* Credits to Tanvi for designing*/
+/*Step 3: Link Styling*/
+a.button {
+ text-decoration: none;
+}
+
+	div {
+	background-color: Azure;
+	width: 360px;
+ 	border-style: dashed;
+ 	outline: blue;
+ 	
+}
+
+	
